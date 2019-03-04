@@ -1,6 +1,6 @@
-# Table of contents
+## Table of contents:
 
-* [Fundamentals](README.md)
+<!-- * [Fundamentals](README.md) -->
 
 ## HTML Fundamentals
 
