@@ -20,7 +20,7 @@ To create a paragraph, simply type in the **&lt;p&gt;** element with its opening
 
 **The result:**
 
-![](../../.gitbook/assets/screenshot-2019-02-17-at-13.21.31.png)
+![](../../../.gitbook/assets/screenshot-2019-02-17-at-13.21.31.png)
 
 {% hint style="info" %}
 Browsers automatically add an empty line before and after a paragraph.
