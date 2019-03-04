@@ -1,3 +1,2 @@
-# Headline
+# HTML Fundamentals
 
-> An awesome project.
