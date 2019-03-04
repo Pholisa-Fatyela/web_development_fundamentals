@@ -34,7 +34,7 @@ The &lt;strong&gt; tag is a phrase tag. It defines important text.
 
 Each paragraph in the example is formatted differently to demonstrate what each tag does:
 
-![](../.gitbook/assets/screenshot-2019-02-17-at-13.56.22.png)
+![](../../.gitbook/assets/screenshot-2019-02-17-at-13.56.22.png)
 
 {% hint style="info" %}
 Browsers display &lt;strong&gt; as &lt;b&gt;, and &lt;em&gt; as &lt;i&gt;.  

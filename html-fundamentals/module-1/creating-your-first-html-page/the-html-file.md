@@ -20,7 +20,7 @@ In our example, the file is saved as **first.html**
   
 When the file is opened, the following result is displayed in the web browser:
 
-![](../../.gitbook/assets/screenshot-2019-02-17-at-12.32.49.png)
+![](../../../.gitbook/assets/screenshot-2019-02-17-at-12.32.49.png)
 
 {% hint style="info" %}
 Don’t forget to save the file. HTML file names should end in either **.html** or **.htm**
